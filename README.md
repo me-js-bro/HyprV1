@@ -68,7 +68,7 @@ As I use only a Desktop Pc, I don't have any laptop. That's why I could not test
 After you have installed all the tools, now clone my dotfiles.
 
 ```
-git clone https://github.com/md-mahin-islam-mahi/HyprV1.git
+git clone https://github.com/me-js-bro/HyprV1.git
 ```
 Now run these commands
 
